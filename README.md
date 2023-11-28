@@ -13,3 +13,7 @@
     * 6 - User Interfaces
     * 7 - Testing, CI/CD
     * 8 - Scalability and Security
+
+    ### SASS
+
+    sass --watch *nombre_archivo.scss*:*nombre_archivo.css* 
